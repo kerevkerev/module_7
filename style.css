@@ -424,3 +424,11 @@ footer {
 .icon {
     margin-right: 20px;
 }
+
+
+@media screen and (max-width: 600px) {
+    .header__inner {
+      background: blueviolet;
+    }
+  }
+    
